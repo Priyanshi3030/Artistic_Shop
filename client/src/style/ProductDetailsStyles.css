@@ -4,9 +4,9 @@
   
 
  .card-img-top-first{
-   height:500px;
-   width:200;
-   float:right;
+   height:400px;
+   width:auto;
+   align-items: center;
  } 
   .product-details-info {
     display: flex;

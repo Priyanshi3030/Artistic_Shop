@@ -27,3 +27,15 @@
     text-align: center;
     /* margin-top: -140px !important; */
   }
+
+  card-img-top{
+    max-width: 100%;
+    height:auto;
+  }
+
+  /*to be fix*/
+  @media screen and (max-width: 768px) {
+    .row {
+      flex-direction: column; 
+    }
+  }
